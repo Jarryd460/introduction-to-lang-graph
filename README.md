@@ -66,7 +66,8 @@ This repository serves as a comprehensive introduction to working with LangGraph
 .
 ├── Exercises/               # Practice exercises
 │   ├── Exercise_Graph1.ipynb # First exercise notebook
-│   └── Exercise_Graph2.ipynb # Second exercise notebook
+│   ├── Exercise_Graph2.ipynb # Second exercise notebook
+│   └── Exercise_Graph3.ipynb # Third exercise notebook
 ├── Graphs/                  # Example notebooks
 │   ├── Hello_World.ipynb    # Basic LangGraph example
 │   ├── Multiple_Inputs.ipynb # Example with multiple input handling
@@ -83,6 +84,7 @@ Practice your LangGraph skills with hands-on exercises:
 
 - `Exercise_Graph1.ipynb`: First exercise to practice basic LangGraph concepts
 - `Exercise_Graph2.ipynb`: Second exercise with more advanced LangGraph concepts
+- `Exercise_Graph3.ipynb`: Third exercise focusing on practical application of LangGraph
 
 ## 🙏 Acknowledgments
 
