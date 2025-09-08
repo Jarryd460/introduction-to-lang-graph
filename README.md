@@ -10,6 +10,7 @@ This repository serves as a comprehensive introduction to working with LangGraph
 - Stateful conversation management
 - Multi-actor LLM applications
 - Visualized conversation flows
+- Handling multiple inputs and complex workflows
 - Easy integration with LangChain and other LLM frameworks
 - Environment variable management with python-dotenv
 - Poetry for dependency management
@@ -49,6 +50,7 @@ This repository serves as a comprehensive introduction to working with LangGraph
 1. **Explore the examples**
    - Check out the `Graphs/` directory for Jupyter notebook examples
    - Start with `Hello_World.ipynb` for a basic introduction
+   - Explore `Multiple_Inputs.ipynb` for handling complex workflows
    - Practice with exercises in the `Exercises/` directory
 
 2. **Run a notebook**
@@ -63,7 +65,8 @@ This repository serves as a comprehensive introduction to working with LangGraph
 ├── Exercises/               # Practice exercises
 │   └── Exercise_Graph1.ipynb # First exercise notebook
 ├── Graphs/                  # Example notebooks
-│   └── Hello_World.ipynb    # Basic LangGraph example
+│   ├── Hello_World.ipynb    # Basic LangGraph example
+│   └── Multiple_Inputs.ipynb # Example with multiple input handling
 ├── .gitignore              # Git ignore file
 ├── poetry.lock             # Dependency lock file
 ├── poetry.toml             # Poetry configuration
