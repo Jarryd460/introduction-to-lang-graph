@@ -49,6 +49,7 @@ This repository serves as a comprehensive introduction to working with LangGraph
 1. **Explore the examples**
    - Check out the `Graphs/` directory for Jupyter notebook examples
    - Start with `Hello_World.ipynb` for a basic introduction
+   - Practice with exercises in the `Exercises/` directory
 
 2. **Run a notebook**
    ```bash
@@ -59,13 +60,21 @@ This repository serves as a comprehensive introduction to working with LangGraph
 
 ```
 .
-├── Graphs/                   # Example notebooks
-│   └── Hello_World.ipynb     # Basic LangGraph example
-├── .gitignore               # Git ignore file
-├── poetry.lock              # Dependency lock file
-├── poetry.toml              # Poetry configuration
-└── pyproject.toml           # Project configuration and dependencies
+├── Exercises/               # Practice exercises
+│   └── Exercise_Graph1.ipynb # First exercise notebook
+├── Graphs/                  # Example notebooks
+│   └── Hello_World.ipynb    # Basic LangGraph example
+├── .gitignore              # Git ignore file
+├── poetry.lock             # Dependency lock file
+├── poetry.toml             # Poetry configuration
+└── pyproject.toml          # Project configuration and dependencies
 ```
+
+## 💪 Exercises
+
+Practice your LangGraph skills with hands-on exercises:
+
+- `Exercise_Graph1.ipynb`: First exercise to practice basic LangGraph concepts
 
 ## 🙏 Acknowledgments
 
