@@ -10,6 +10,7 @@ This repository serves as a comprehensive introduction to working with LangGraph
 - Stateful conversation management
 - Multi-actor LLM applications
 - Sequential agent workflows
+- Conditional logic and routing
 - Visualized conversation flows
 - Handling multiple inputs and complex workflows
 - Easy integration with LangChain and other LLM frameworks
@@ -53,6 +54,7 @@ This repository serves as a comprehensive introduction to working with LangGraph
    - Start with `Hello_World.ipynb` for a basic introduction
    - Explore `Multiple_Inputs.ipynb` for handling complex workflows
    - Try `Sequential_Agent.ipynb` to understand sequential agent workflows
+   - Experiment with `Conditional_Agent.ipynb` to learn about conditional logic in agents
    - Practice with exercises in the `Exercises/` directory
 
 2. **Run a notebook**
@@ -69,6 +71,7 @@ This repository serves as a comprehensive introduction to working with LangGraph
 │   ├── Exercise_Graph2.ipynb # Second exercise notebook
 │   └── Exercise_Graph3.ipynb # Third exercise notebook
 ├── Graphs/                  # Example notebooks
+│   ├── Conditional_Agent.ipynb # Example of conditional agent logic
 │   ├── Hello_World.ipynb    # Basic LangGraph example
 │   ├── Multiple_Inputs.ipynb # Example with multiple input handling
 │   └── Sequential_Agent.ipynb # Sequential agent workflow example
